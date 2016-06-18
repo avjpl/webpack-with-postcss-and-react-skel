@@ -1,0 +1,9 @@
+/* custom properties */
+:root {
+  --fontSize: 1.3rem;
+  --mainColor: #12345678;
+  --highlightColor: hwb(190, 35%, 80%);
+  --rebeccapurple: rebeccapurple;
+  --colorRed: red;
+  --royalblue: royalblue;
+}

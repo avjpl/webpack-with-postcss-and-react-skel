@@ -1,0 +1,6 @@
+@import 'variables';
+
+.component_1 {
+  background: var(--royalblue);
+  height: 100vh;
+}

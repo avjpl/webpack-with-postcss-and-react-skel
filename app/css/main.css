@@ -1,0 +1,9 @@
+@import '../../bower_components/foundation-sites/dist/foundation';
+
+@import 'partials/variables';
+/*@import '../components/component1/component1.css';*/
+/*@import '../components/component2/component2.css';*/
+
+a {
+  color: var(--colorRed);
+}
